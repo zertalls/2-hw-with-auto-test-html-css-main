@@ -144,15 +144,19 @@ table {
 
 th, td {
     /* Стили для ячеек таблицы */
-    padding: 10px 10px 11px 15px;
+    padding: 12px 15px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #303030;
     
 }
 
 footer {
     /* Стили для футера */
     background: rgba(163, 167, 255, 0.3);
-    padding-top: 26px;
-    padding-bottom: 27px;
+    padding: 26px 0px;
+    
 }
 
 .footer-link {
