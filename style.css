@@ -94,7 +94,7 @@ select {
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
-    padding-left: 20px;    
+    padding: 0px 20px;   
     font-weight: 400;
     font-size: 16px;    
 }
@@ -114,8 +114,7 @@ select {
     color: rgba(48, 48, 48, 0.2);
     padding: 9px 215px 8px 12px;
     border: 1px solid rgba(48, 48, 48, 0.3);
-    border-radius: 5px;
-    
+    border-radius: 5px;   
 
 }
 
