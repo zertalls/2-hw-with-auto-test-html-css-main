@@ -142,6 +142,7 @@ select {
 table {
     /* Стили для таблицы */
     border: 1px solid #95a1bb;
+    font-size: 14px;
 }
 
 th, td {
