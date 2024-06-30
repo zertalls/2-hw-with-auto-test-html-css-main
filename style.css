@@ -86,7 +86,7 @@ select {
 
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
-    padding: 0px 20px;    
+    padding-left: 20px;    
     font-weight: 400;
     font-size: 16px;    
     list-style-image: url(./assets/image/solar_map-arrow-up-bold.svg);
@@ -94,7 +94,7 @@ select {
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
-    padding: 0px 20px;   
+    padding-left: 20px; 
     font-weight: 400;
     font-size: 16px;    
 }
